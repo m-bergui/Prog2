@@ -1,0 +1,15 @@
+.vscode/
+Cours/
+*.exe
+*.docx
+*.xlsx
+*.pptx
+*.zip
+TD/Solution_série3.pdf
+TD/Solution_série2.pdf
+TD/Solution_série4.pdf
+TD/Solution_série5.pdf
+TD/S1E11.c
+TD/S5E2.c
+TP/S4E2.c
+TP/S4E1.c
