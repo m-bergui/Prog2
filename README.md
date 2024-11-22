@@ -1,4 +1,4 @@
-# 🖥️ Prog1 - Module de Programmation 1 en C
+# 🖥️ Prog2 - Module de Programmation 2 en C
 
 Bienvenue dans le repo du **module de programmation 2 en C** ! Ce repo est destiné aux étudiants pour :  
 
